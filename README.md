@@ -3,7 +3,10 @@ The 8-Week SQL Challenge is a collection of real-world SQL case studies designed
 
 Each case study focuses on different business problems, encouraging hands-on learning and problem-solving.
 
+
+
 Case Studies
+
 1.Danny's Diner: Analyze customer behavior and revenue trends.
 
 2.Pizza Runner: Explore delivery logistics and performance metrics.
