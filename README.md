@@ -4,17 +4,18 @@ The 8-Week SQL Challenge is a collection of real-world SQL case studies designed
 Each case study focuses on different business problems, encouraging hands-on learning and problem-solving.
 
 Case Studies
-Danny's Diner: Analyze customer behavior and revenue trends.
+1.Danny's Diner: Analyze customer behavior and revenue trends.
 
-Pizza Runner: Explore delivery logistics and performance metrics.
+2.Pizza Runner: Explore delivery logistics and performance metrics.
 
-Foodie-Fi: Dive into subscription-based business models.
+3.Foodie-Fi: Dive into subscription-based business models.
 
-Data Bank: Understand customer segmentation and churn rates.
+4.Data Bank: Understand customer segmentation and churn rates.
 
-Cluster Analysis: Apply advanced SQL techniques to group and analyze data.
-Healthy Competition: Assess fitness data for trends and insights.
+5.Cluster Analysis: Apply advanced SQL techniques to group and analyze data.
 
-Balanced Tree: Work on financial transaction analysis.
+6.Healthy Competition: Assess fitness data for trends and insights.
 
-Fresh Segments: Perform marketing campaign analytics.
+7.Balanced Tree: Work on financial transaction analysis.
+
+8.Fresh Segments: Perform marketing campaign analytics.
