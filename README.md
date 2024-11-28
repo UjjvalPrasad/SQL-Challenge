@@ -5,10 +5,16 @@ Each case study focuses on different business problems, encouraging hands-on lea
 
 Case Studies
 Danny's Diner: Analyze customer behavior and revenue trends.
+
 Pizza Runner: Explore delivery logistics and performance metrics.
+
 Foodie-Fi: Dive into subscription-based business models.
+
 Data Bank: Understand customer segmentation and churn rates.
+
 Cluster Analysis: Apply advanced SQL techniques to group and analyze data.
 Healthy Competition: Assess fitness data for trends and insights.
+
 Balanced Tree: Work on financial transaction analysis.
+
 Fresh Segments: Perform marketing campaign analytics.
